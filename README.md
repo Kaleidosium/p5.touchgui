@@ -1,3 +1,10 @@
+ > ## Extra Functionalities
+ > 1. support for p5 instance mode
+ > 2. load JSON styles
+ > 
+ > ## TODO:
+ > - FIX: _getCanvasPos
+
 [Home]() | [Reference](docs/REFERENCE.md) | [Development Notes](docs/NOTES.md)
 
 # p5.touchgui
