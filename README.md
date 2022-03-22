@@ -1,6 +1,6 @@
 [Home]() | [Reference](docs/REFERENCE.md) | [Development Notes](docs/NOTES.md)
 
-# p5.touchgui
+# p5.touchgui-fork
 
 > Note: This is a fork of [L05/p5.touchgui](https://github.com/L05/p5.touchgui). I don't know if I'll add any extra features.
 > 
