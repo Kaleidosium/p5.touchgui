@@ -1,6 +1,6 @@
 {
   "name": "p5.touchgui",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "An easy-to-use touchscreen and mouse UI library for p5.js.",
   "main": "lib/p5.touchgui.js",
   "directories": {
@@ -27,13 +27,13 @@
   },
   "homepage": "https://github.com/L05/p5.touchgui#readme",
   "devDependencies": {
-    "chai": "4.2.0",
-    "jsdom": "15.1.1",
+    "chai": "4.3.6",
+    "jsdom": "19.0.0",
     "jsdom-global": "3.0.2",
-    "mocha": "6.1.4"
+    "mocha": "^9.2.2"
   },
   "dependencies": {
-    "node-osc": "4.1.0",
-    "socket.io": "2.2.0"
+    "node-osc": "6.1.14",
+    "socket.io": "^4.4.1"
   }
 }
