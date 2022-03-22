@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/L05/p5.touchgui.git"
+    "url": "git+https://github.com/Kaleidosium/p5.touchgui.git"
   },
   "keywords": [
     "p5.js",
@@ -20,12 +20,12 @@
     "ui",
     "gui"
   ],
-  "author": "L05 <carlosga@gmail.com> (http://l05.is/)",
+  "author": "L05 <carlosga@gmail.com> (http://l05.is/), Kaleidosium <iamrifki0@gmail.com> (http://kaleidosium.github.io/)",
   "license": "LGPL-2.1",
   "bugs": {
-    "url": "https://github.com/L05/p5.touchgui/issues"
+    "url": "https://github.com/Kaleidosium/p5.touchgui/issues"
   },
-  "homepage": "https://github.com/L05/p5.touchgui#readme",
+  "homepage": "https://github.com/Kaleidosium/p5.touchgui#readme",
   "devDependencies": {
     "chai": "4.3.6",
     "jsdom": "19.0.0",
