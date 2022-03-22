@@ -1,15 +1,11 @@
- > ## Extra Functionalities
- > 1. support for p5 instance mode
- > 2. load JSON styles
- > 
- > ## TODO:
- > - FIX: _getCanvasPos
-
 [Home]() | [Reference](docs/REFERENCE.md) | [Development Notes](docs/NOTES.md)
 
 # p5.touchgui
 
-*Note: This is a work in progress that is in early stages of development.*
+> Note: This is a fork of [L05/p5.touchgui](https://github.com/L05/p5.touchgui). I don't know if I'll add any extra features.
+> 
+> It also contains improvements from other forks, most notably [aryan02420:patch0](https://github.com/aryan02420/p5.touchgui/tree/patch0)
+
 
 * [Why p5.touchgui?]()
 * [Getting Started](#getting-started)
@@ -250,7 +246,7 @@ In order to run the OSC examples you'll need to do the following:
 
 10. Then point your browser to `http://localhost:8080/index.html` and use the menu to select the OSC examples.
 
-
+<!--
 # Support
 
 Please use *p5.touchgui* and let me know if you have any feedback!
@@ -259,3 +255,4 @@ Please use *p5.touchgui* and let me know if you have any feedback!
 * Do you **teach it in a class**? What works and doesn't work?
 
 Any questions pertaining to this project may be communicated via Issues on the [p5.touchgui GitHub repository](https://github.com/L05/p5.touchgui). Simply create a new Issue and either assign or tag me in the conversation with [@L05](https://github.com/L05).
+-->
